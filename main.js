@@ -1,3 +1,7 @@
+/* DIGITAL CLOCK revision 1                           */
+/* Pseudo-Liquid Cristal Display                      */
+/*        Designed by Masahiro Nishikawa              */
+/*        credited to Dotinstall.com                  */
 'use strict';
 
 {
